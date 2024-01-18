@@ -1,6 +1,6 @@
 const person = {
   name: "Eric",
-  campus: "Lyon",
+  campus: "Remote",
 };
 
 console.log(person);
